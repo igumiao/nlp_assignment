@@ -6,3 +6,25 @@ data/dev-claims-predictions.json
 data/test-claims-predictions.json
 Template.ipynb
 firstTry.ipynb
+confusion_matrix.png
+Group60__COMP90042_Project_2025.ipynb
+Pretrained - 副本.ipynb
+PretrainedWithFineTune.ipynb
+sample and data structure.txt
+topK.png
+data/dev-claims-predictions-top3.json
+data/dev-claims-predictions-top4.json
+data/dev-claims-predictions-top5.json
+data/dev-claims-predictions-top6.json
+data/dev-claims-predictions-top10.json
+data/fine_tuned_retrieval_model.pt
+data/preprocessed_sample.json
+data/retrieval_results.pt
+data/test-output (2).zip
+data/test-output (3).zip
+data/test-output (4).zip
+data/test-output (5).zip
+data/test-output.json
+data/test-output.zip
+data/verification_model_phase1.pt
+data/verification_model_phase2.pt
