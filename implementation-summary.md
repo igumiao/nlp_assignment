@@ -17,18 +17,14 @@ I implemented a two-stage retrieval approach to efficiently find relevant eviden
    - Uses TF-IDF vectorization to quickly filter the full evidence corpus (1.2M passages)
    - Selects the top-k candidates (default: `TFIDF_TOP_K=500`) based on cosine similarity
    - Configuration: `TFIDF_MAX_FEATURES=20000` for vocabulary size
-
 2. **Second Stage (Re-ranking)**:
    - Uses transformer embeddings from `sentence-transformers/all-MiniLM-L6-v2`
    - Re-ranks the TF-IDF candidates to select final top-k evidence passages (default: `EVIDENCE_FINAL_TOP_K=4`)
-   - Employs mean pooling to create fixed-length vector representations
    - Transformer configuration: `TRANSFORMER_BATCH_SIZE=32`, `TRANSFORMER_MAX_LENGTH=512`
-
 3. **Text Preprocessing Experiments**:
    - Lemmatization (`LEMMATIZE=True/False`): Tests showed better performance with lemmatization
    - Stop word removal (`REMOVE_STOP_WORDS=True/False`): Generally worse results with stop words removed
    - Combined with different `TFIDF_TOP_K` and `EVIDENCE_FINAL_TOP_K` values to find optimal settings
-
 4. **Experimentation Framework**:
    - Implemented flexible experimentation with multiple K values (`EXPERIMENT_WITH_MULTIPLE_K=True/False`)
    - When enabled, tests `EVIDENCE_TOP_K_VALUES=[3, 4, 5, 6]` to find optimal evidence count
