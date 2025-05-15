@@ -1,2 +1,8 @@
 data/evidence.json
 Group60__COMP90042_Project_2025.ipynb
+.vscode/launch.json
+.vscode/tasks.json
+data/dev-claims-predictions.json
+data/test-claims-predictions.json
+Template.ipynb
+firstTry.ipynb
