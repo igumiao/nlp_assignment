@@ -1,7 +1,7 @@
 {
   "claim-752": {
     "claim_text": "[South Australia] has the most expensive electricity in the world.",
-    "claim_label": "NOT_ENOUGH_INFO",
+    "claim_label": "REFUTES",
     "evidences": [
       "evidence-67732",
       "evidence-572512",
@@ -21,7 +21,7 @@
   },
   "claim-1266": {
     "claim_text": "This means that the world is now 1C warmer than it was in pre-industrial times",
-    "claim_label": "NOT_ENOUGH_INFO",
+    "claim_label": "SUPPORTS",
     "evidences": [
       "evidence-694262",
       "evidence-527805",
@@ -41,7 +41,7 @@
   },
   "claim-2164": {
     "claim_text": "Greenland has only lost a tiny fraction of its ice mass",
-    "claim_label": "SUPPORTS",
+    "claim_label": "DISPUTED",
     "evidences": [
       "evidence-264761",
       "evidence-52981",
@@ -51,7 +51,7 @@
   },
   "claim-1607": {
     "claim_text": "CO2 limits won't cool the planet.",
-    "claim_label": "REFUTES",
+    "claim_label": "SUPPORTS",
     "evidences": [
       "evidence-616168",
       "evidence-46356",
@@ -61,7 +61,7 @@
   },
   "claim-761": {
     "claim_text": "[Riebesell] is a world authority on the topic and has typically communicated cautiously about the effects of acidification.",
-    "claim_label": "REFUTES",
+    "claim_label": "SUPPORTS",
     "evidences": [
       "evidence-386068",
       "evidence-1129386",
@@ -71,7 +71,7 @@
   },
   "claim-1718": {
     "claim_text": "The actual data show high northern latitudes are warmer today than in 1940.",
-    "claim_label": "NOT_ENOUGH_INFO",
+    "claim_label": "SUPPORTS",
     "evidences": [
       "evidence-734024",
       "evidence-1119853",
@@ -91,7 +91,7 @@
   },
   "claim-1786": {
     "claim_text": "CFCs contribute to global waerming at a small level.",
-    "claim_label": "NOT_ENOUGH_INFO",
+    "claim_label": "SUPPORTS",
     "evidences": [
       "evidence-270324",
       "evidence-91026",
@@ -271,7 +271,7 @@
   },
   "claim-1160": {
     "claim_text": "With more CO2 in the atmosphere, the challenge [feeding 2.5 billion more people] can and will be met.",
-    "claim_label": "REFUTES",
+    "claim_label": "SUPPORTS",
     "evidences": [
       "evidence-662931",
       "evidence-94272",
@@ -281,7 +281,7 @@
   },
   "claim-2679": {
     "claim_text": "\"The solubility of carbon dioxide in water is listed in the Handbook of Chemistry and Physics as a declining function of temperature. ...",
-    "claim_label": "REFUTES",
+    "claim_label": "SUPPORTS",
     "evidences": [
       "evidence-951599",
       "evidence-291872",
@@ -291,7 +291,7 @@
   },
   "claim-2662": {
     "claim_text": "\"...there is the contention by Wolfgang Knorr of the Department of Earth Sciences at the University of Bristol in England that carbon dioxide levels in the atmosphere are about where they were 160 years ago.\" (as quoted by Ken Ward Jr.)",
-    "claim_label": "REFUTES",
+    "claim_label": "SUPPORTS",
     "evidences": [
       "evidence-551522",
       "evidence-1018042",
@@ -341,7 +341,7 @@
   },
   "claim-2426": {
     "claim_text": "\"Twentieth century global warming did not start until  1910.",
-    "claim_label": "NOT_ENOUGH_INFO",
+    "claim_label": "REFUTES",
     "evidences": [
       "evidence-461050",
       "evidence-185243",
@@ -361,7 +361,7 @@
   },
   "claim-993": {
     "claim_text": "While there has been a mean rise of a little more than 3mm per year worldwide since the 1990s, in the last decade, the NOAA Virginia Key tide gauge just south of Miami Beach has measured a 9mm rise annually.\u201d",
-    "claim_label": "REFUTES",
+    "claim_label": "SUPPORTS",
     "evidences": [
       "evidence-1108581",
       "evidence-627319",
@@ -371,7 +371,7 @@
   },
   "claim-2593": {
     "claim_text": "[T]he study indicates \u201cGreenland\u2019s ice may be less susceptible to the massive meltdown predicted by computer models of climate change, the main author ... said in an interview. ...",
-    "claim_label": "DISPUTED",
+    "claim_label": "SUPPORTS",
     "evidences": [
       "evidence-792877",
       "evidence-947243",
@@ -411,7 +411,7 @@
   },
   "claim-540": {
     "claim_text": "The heatwave we now have in Europe is not something that was expected with just 1C of warming",
-    "claim_label": "REFUTES",
+    "claim_label": "NOT_ENOUGH_INFO",
     "evidences": [
       "evidence-698828",
       "evidence-529985",
@@ -511,7 +511,7 @@
   },
   "claim-2275": {
     "claim_text": "[\u2026] Constant 24-7  media coverage of every significant storm worldwide just makes it seem  that way.\u201d",
-    "claim_label": "NOT_ENOUGH_INFO",
+    "claim_label": "SUPPORTS",
     "evidences": [
       "evidence-1066292",
       "evidence-593737",
@@ -531,7 +531,7 @@
   },
   "claim-2611": {
     "claim_text": "The final amount of extra CO2 that remains in the atmosphere stays there on a time scale of centuries.",
-    "claim_label": "SUPPORTS",
+    "claim_label": "NOT_ENOUGH_INFO",
     "evidences": [
       "evidence-356854",
       "evidence-620559",
@@ -571,7 +571,7 @@
   },
   "claim-2867": {
     "claim_text": "Skeptics who oppose scientific findings that threaten their world view are far closer to Galileo's belief-based critics in the Catholic Church.",
-    "claim_label": "NOT_ENOUGH_INFO",
+    "claim_label": "DISPUTED",
     "evidences": [
       "evidence-769659",
       "evidence-392",
@@ -611,7 +611,7 @@
   },
   "claim-3051": {
     "claim_text": "Once natural influences, in particular the impact of El Ni\u00f1o and La Ni\u00f1a, are removed from the recent termperature record, there is no evidence of a significant change in the human contribution to climate change.",
-    "claim_label": "NOT_ENOUGH_INFO",
+    "claim_label": "DISPUTED",
     "evidences": [
       "evidence-824781",
       "evidence-992780",
@@ -691,7 +691,7 @@
   },
   "claim-1896": {
     "claim_text": "Greg Hunt CSIRO research shows carbon emissions can be reduced by 20 per cent over 40 years using nature, soils and trees.",
-    "claim_label": "NOT_ENOUGH_INFO",
+    "claim_label": "DISPUTED",
     "evidences": [
       "evidence-130992",
       "evidence-79910",
@@ -731,7 +731,7 @@
   },
   "claim-316": {
     "claim_text": "the models predicted seven times as much warming as has been observed",
-    "claim_label": "NOT_ENOUGH_INFO",
+    "claim_label": "SUPPORTS",
     "evidences": [
       "evidence-178505",
       "evidence-980959",
@@ -791,7 +791,7 @@
   },
   "claim-578": {
     "claim_text": "\u2018If we do nothing to reduce our greenhouse gas emissions, the kind of extreme heat we saw this past summer will be the norm when my young son is a grown man.\u2019",
-    "claim_label": "REFUTES",
+    "claim_label": "SUPPORTS",
     "evidences": [
       "evidence-130492",
       "evidence-509654",
@@ -811,7 +811,7 @@
   },
   "claim-1097": {
     "claim_text": "\u201c[\u2026]The impact on calcification, metabolism, growth, fertility and survival of calcifying marine species when pH is lowered up to 0.3 units [\u2026] is beneficial, not damaging.",
-    "claim_label": "REFUTES",
+    "claim_label": "SUPPORTS",
     "evidences": [
       "evidence-1192268",
       "evidence-616116",
@@ -821,7 +821,7 @@
   },
   "claim-609": {
     "claim_text": "That\u2019s because as Antarctica\u2019s mass shrinks, the ice sheet\u2019s gravitational pull on the ocean relaxes somewhat, and the seas travel back across the globe to pile up far away \u2014 with U.S. coasts being one prime destination.\u201d",
-    "claim_label": "DISPUTED",
+    "claim_label": "SUPPORTS",
     "evidences": [
       "evidence-807676",
       "evidence-710110",
@@ -831,7 +831,7 @@
   },
   "claim-173": {
     "claim_text": "If there were [carbon emissions], we could not see because most carbon is black.",
-    "claim_label": "REFUTES",
+    "claim_label": "DISPUTED",
     "evidences": [
       "evidence-596172",
       "evidence-631056",
@@ -891,7 +891,7 @@
   },
   "claim-2478": {
     "claim_text": "(Kerr 2007) points out that the sunlight-reflecting haze that cools much of the planet seems to have thinned over the past decade or so.",
-    "claim_label": "NOT_ENOUGH_INFO",
+    "claim_label": "SUPPORTS",
     "evidences": [
       "evidence-370378",
       "evidence-370468",
@@ -921,7 +921,7 @@
   },
   "claim-141": {
     "claim_text": "Greenpeace didn\u2019t save the whales, switching from whale oil to petroleum and palm oil did",
-    "claim_label": "NOT_ENOUGH_INFO",
+    "claim_label": "DISPUTED",
     "evidences": [
       "evidence-784155",
       "evidence-51845",
@@ -931,7 +931,7 @@
   },
   "claim-1933": {
     "claim_text": "Newt Gingrich \"teamed with Nancy Pelosi and Al Gore on global warming.\"",
-    "claim_label": "NOT_ENOUGH_INFO",
+    "claim_label": "SUPPORTS",
     "evidences": [
       "evidence-423215",
       "evidence-101963",
@@ -951,7 +951,7 @@
   },
   "claim-443": {
     "claim_text": "\u201cToday climate scientists are obsessed with the level of carbon dioxide in the atmosphere, a very very small part of the overall picture.",
-    "claim_label": "NOT_ENOUGH_INFO",
+    "claim_label": "SUPPORTS",
     "evidences": [
       "evidence-100394",
       "evidence-510034",
@@ -1001,7 +1001,7 @@
   },
   "claim-1638": {
     "claim_text": "Worry about global warming impacts in the next 100 years, not an ice age in over 10,000 years.",
-    "claim_label": "NOT_ENOUGH_INFO",
+    "claim_label": "REFUTES",
     "evidences": [
       "evidence-842114",
       "evidence-954212",
@@ -1021,7 +1021,7 @@
   },
   "claim-38": {
     "claim_text": "Scientists studying Antarctica sea ice warn a rise in accumulation could spark the next ice age.",
-    "claim_label": "REFUTES",
+    "claim_label": "DISPUTED",
     "evidences": [
       "evidence-538528",
       "evidence-739706",
@@ -1031,7 +1031,7 @@
   },
   "claim-1643": {
     "claim_text": "Al Gore's book is quite accurate, and far more accurate than contrarian books.",
-    "claim_label": "SUPPORTS",
+    "claim_label": "DISPUTED",
     "evidences": [
       "evidence-544253",
       "evidence-575135",
@@ -1041,7 +1041,7 @@
   },
   "claim-1259": {
     "claim_text": "While the north-east, midwest and upper great plains have experienced a 30% increase in heavy rainfall episodes \u2013 considered once-in-every-five year downpours \u2013 parts of the west, particularly California, have been parched by drought.",
-    "claim_label": "NOT_ENOUGH_INFO",
+    "claim_label": "SUPPORTS",
     "evidences": [
       "evidence-626410",
       "evidence-109778",
@@ -1091,7 +1091,7 @@
   },
   "claim-392": {
     "claim_text": "a study that totally debunks the whole concept of man-made Global Warming",
-    "claim_label": "NOT_ENOUGH_INFO",
+    "claim_label": "DISPUTED",
     "evidences": [
       "evidence-268745",
       "evidence-396628",
@@ -1111,7 +1111,7 @@
   },
   "claim-559": {
     "claim_text": "And there is a lot of evidence that climate change is diminishing biodiversity, which can be seen in these alpine meadows as well.",
-    "claim_label": "NOT_ENOUGH_INFO",
+    "claim_label": "SUPPORTS",
     "evidences": [
       "evidence-1047048",
       "evidence-22048",
@@ -1121,7 +1121,7 @@
   },
   "claim-2583": {
     "claim_text": "\"Each unit of CO2 you put into the atmosphere has less and less of a warming impact.",
-    "claim_label": "REFUTES",
+    "claim_label": "NOT_ENOUGH_INFO",
     "evidences": [
       "evidence-1184683",
       "evidence-247680",
@@ -1191,7 +1191,7 @@
   },
   "claim-803": {
     "claim_text": "The team of climate scientists notes that in failing to predict the warming \u2018hiatus\u2019 in the beginning of the 21st century, the Intergovernmental Panel on Climate Change (IPCC) models overestimated temperature increases\u2026",
-    "claim_label": "NOT_ENOUGH_INFO",
+    "claim_label": "DISPUTED",
     "evidences": [
       "evidence-968233",
       "evidence-584152",
@@ -1221,7 +1221,7 @@
   },
   "claim-846": {
     "claim_text": "In other words, we have, trapped in Arctic permafrost, twice as much carbon as is currently wrecking the atmosphere of the planet, all of it scheduled to be released at a date that keeps getting moved up, partially in the form of a gas that multiplies its warming power 86 times over.",
-    "claim_label": "SUPPORTS",
+    "claim_label": "DISPUTED",
     "evidences": [
       "evidence-1099844",
       "evidence-769821",
@@ -1251,7 +1251,7 @@
   },
   "claim-623": {
     "claim_text": "The noted oceanographer Walter Munk referred to sea-level rise as an \u201cenigma\u201d",
-    "claim_label": "NOT_ENOUGH_INFO",
+    "claim_label": "SUPPORTS",
     "evidences": [
       "evidence-965161",
       "evidence-1192617",
@@ -1291,7 +1291,7 @@
   },
   "claim-281": {
     "claim_text": "In an interview with the BBC after the scandal broke, Dr Jones admitted there had been no statistically significant global warming since 1995",
-    "claim_label": "REFUTES",
+    "claim_label": "DISPUTED",
     "evidences": [
       "evidence-1174955",
       "evidence-1142444",
@@ -1331,17 +1331,17 @@
   },
   "claim-478": {
     "claim_text": "Protecting and restoring forests would reduce 18% of emissions by 2030",
-    "claim_label": "NOT_ENOUGH_INFO",
+    "claim_label": "SUPPORTS",
     "evidences": [
-      "evidence-888963",
       "evidence-404422",
+      "evidence-888963",
       "evidence-792604",
       "evidence-358595"
     ]
   },
   "claim-988": {
     "claim_text": "The unlikely scenarios are now, all of a sudden, becoming more probable than they once were thought to be,\u2019 says Sweet.\u201d",
-    "claim_label": "NOT_ENOUGH_INFO",
+    "claim_label": "DISPUTED",
     "evidences": [
       "evidence-755597",
       "evidence-725565",
@@ -1391,7 +1391,7 @@
   },
   "claim-2101": {
     "claim_text": "Clouds provide negative feedback",
-    "claim_label": "SUPPORTS",
+    "claim_label": "DISPUTED",
     "evidences": [
       "evidence-208863",
       "evidence-269791",
@@ -1401,7 +1401,7 @@
   },
   "claim-897": {
     "claim_text": "The report [\u2026] found that the United States was one of the most pollution-free nations in the world.\u201d",
-    "claim_label": "NOT_ENOUGH_INFO",
+    "claim_label": "SUPPORTS",
     "evidences": [
       "evidence-318997",
       "evidence-445359",
@@ -1411,7 +1411,7 @@
   },
   "claim-3063": {
     "claim_text": "'Another global warming myth comes crashing down.",
-    "claim_label": "REFUTES",
+    "claim_label": "NOT_ENOUGH_INFO",
     "evidences": [
       "evidence-35625",
       "evidence-90274",
@@ -1441,7 +1441,7 @@
   },
   "claim-530": {
     "claim_text": "South Australia is winning: it has the most unreliable grid in the world outside Africa and the most expensive electricity.",
-    "claim_label": "NOT_ENOUGH_INFO",
+    "claim_label": "REFUTES",
     "evidences": [
       "evidence-572512",
       "evidence-48256",
@@ -1523,10 +1523,10 @@
     "claim_text": "A recent study led by Lawrence Livermore National Laboratory climate scientist Ben Santer found that while the models ran hot, the \u2018overestimation\u2019 was \u2018partly due to systematic deficiencies in some of the post-2000 external forcings used in the model simulations.\u2019",
     "claim_label": "NOT_ENOUGH_INFO",
     "evidences": [
+      "evidence-526112",
       "evidence-366949",
       "evidence-510347",
-      "evidence-980959",
-      "evidence-107116"
+      "evidence-980959"
     ]
   },
   "claim-1021": {
