@@ -50,3 +50,7 @@ The second on/off indicates whethere use MIX_EVIDENCE or not
 | WithAttentionOFFOFF   | 0.17336631622345908            | 0.44805194805194803               | 0.24999946147731847      |
 | WithAttentionONOFF    | 0.17336631622345908            | 0.474025974025974                 | 0.25388049301438886      |
 | **WithAttentionONON** | **0.17336631622345908**        | **0.512987012987013**             | **0.2591512707145685**   |
+
+Evidence Retrieval F-score (F)    = 0.17336631622345908
+Claim Classification Accuracy (A) = 0.5584415584415584
+Harmonic Mean of F and A          = 0.26459118346442284
